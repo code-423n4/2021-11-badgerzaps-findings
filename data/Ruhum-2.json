@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO Zaps contest",
+  "handle": "Ruhum",
+  "address": "0xC3e61F4ef0a95E616F75f94D5b6A358bD9DC18ac",
+  "risk": "2",
+  "title": "Zap contract's redeem() function doesn't check which token the user wants to receive",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2021-11-badgerzaps-findings/issues/2"
+}
