@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO Zaps contest",
+  "handle": "0x0x0x",
+  "address": "0x3Ca8C469ff8156eeBB1518FA631bf8ebc5EE0688",
+  "risk": "2",
+  "title": "Missing events  for guardian and governance at `SettToRenIbbtcZap.sol`",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2021-11-badgerzaps-findings/issues/9"
+}
