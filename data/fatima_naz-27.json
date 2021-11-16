@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO Zaps contest",
+  "handle": "fatima_naz",
+  "address": "0x63A62BDCA68DCA4B98385De493f73C7393b14F6b",
+  "risk": "0",
+  "title": "use modifier keyword to write modifier not function In SettToRenIbbtcZap.sol line no - 105 and 109",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2021-11-badgerzaps-findings/issues/27"
+}
