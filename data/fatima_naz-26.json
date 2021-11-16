@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO Zaps contest",
+  "handle": "fatima_naz",
+  "address": "0x63A62BDCA68DCA4B98385De493f73C7393b14F6b",
+  "risk": "0",
+  "title": "Modifier should be used instead of functions to write modifier in ibBTC VaultZap.sol",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2021-11-badgerzaps-findings/issues/26"
+}
