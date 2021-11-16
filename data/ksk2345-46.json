@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO Zaps contest",
+  "handle": "ksk2345",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "2",
+  "title": "Access control : wrongly setting the new guardian address to governance address",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2021-11-badgerzaps-findings/issues/46"
+}
