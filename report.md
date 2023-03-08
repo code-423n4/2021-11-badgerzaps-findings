@@ -1,3 +1,11 @@
+---
+sponsor: "BadgerDAO"
+slug: "2021-11-badgerzaps"
+date: "2021-01-05"
+title: "BadgerDAO Zaps contest"
+findings: "https://github.com/code-423n4/2021-11-badgerzaps-findings/issues"
+contest: 57
+---
 
 # Overview
 
